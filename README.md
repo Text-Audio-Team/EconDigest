@@ -94,7 +94,11 @@
 | **요약 모델만 사용하고 싶어요**    | `./scripts/run_inference.sh --url <유튜브_URL>` 이용  |
 | **추가 채널 등록은?**             | 관리자 페이지 또는 API (`POST /api/channels/`) 호출    |
 
+<<<<<<< HEAD
 ---
 
 ### 문의  
 - 이메일: rukais2294@gmail.com
+=======
+---
+>>>>>>> cdc698b34cf7e1f49fb3f774bd0a89b85f43316d
