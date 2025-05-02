@@ -90,7 +90,7 @@
 ![서비스 화면 #3](/assets/image_frontend_screenshot2.png)
 
 ### 요약 텍스트 변환 화면
-![서비스 시작화면](/assets/image_backend_screenshot3.png)
+![서비스 화면 #4](/assets/image_frontend_screenshot3.png)
 
 ---
 
