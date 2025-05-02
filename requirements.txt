@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+yt-dlp
+torch
+transformers
+accelerate
+peft
+bitsandbytes
+requests
+streamlit
+python-dotenv
