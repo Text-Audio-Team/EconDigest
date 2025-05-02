@@ -37,6 +37,8 @@
 
 이제 번거로운 영상 감상 없이, 꼭 알아야 할 경제 인사이트만 빠르게 확인 할 수 있습니다
 
+
+<a href = "https://www.canva.com/design/DAGgAvj-nkA/otRiJdJ5hb46dHCJlGQ0ng/edit?utm_content=DAGgAvj-nkA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> 프로젝트 발표 자료 </a>
 ---
 
 ## 2. 주요 기능  
@@ -92,6 +94,8 @@
 ### 요약 텍스트 변환 화면
 ![서비스 화면 #4](/assets/image_frontend_screenshot3.png)
 
+### 요약 텍스트 PDF 다운로드
+- 요약 기능의 미흡부분 개선 후 고도화 예정
 ---
 
 ## 6. 설치 및 실행 방법
