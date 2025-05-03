@@ -1,0 +1,31 @@
+# 가상환경 및 파일일
+.conda/
+notes
+학습데이터
+
+# Seongjae ignore
+SJ/__pycache__/
+SJ/main.py
+SJ/outputs/
+SJ/Gemma-7b.ipynb
+SJ/gemma-2b-it-koalpaca-finetuned/
+
+# Seoyeon ingnore
+SY/평가/lora_adapters_news/README.md
+SY/평가/lora_adapters_news//adapter_model.safetensors
+SY/Gemma/gemma-2b-it-sum
+SY/Gemma/lora_adapter
+SY/Gemma/qlora_gemma
+SY/Gemma/tokenized_dataset
+SY/Gemma/*.csv
+SY/Gemma/path
+SY/AI_HUB
+SY/평가/lora_adapters_news
+SY/평가/extracted_audio.mp3
+SY/서버업로드용/__pycache__
+SY/서버업로드용/output_folder
+
+# Hyeongseob ignore
+hyeongseob/backend/__pycache__/
+hyeongseob/backend/services/__pycache__
+hyeongseob/frontend/__pycache__/
