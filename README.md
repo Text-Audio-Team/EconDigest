@@ -92,7 +92,9 @@
 ![서비스 화면 #3](/assets/image_frontend_screenshot2.png)
 
 ### 요약 텍스트 변환 화면
-![서비스 화면 #4](/assets/image_frontend_screenshot3.png)
+<p align="center">
+  <img src="/assets/image_frontend_screenshot3.png" alt="영상 내용 요약 전문">
+</p>
 
 ### 요약 텍스트 PDF 다운로드
 - 요약 기능의 미흡부분 개선 후 고도화 예정
