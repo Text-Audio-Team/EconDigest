@@ -38,7 +38,7 @@
 이제 번거로운 영상 감상 없이, 꼭 알아야 할 경제 인사이트만 빠르게 확인 할 수 있습니다
 
 
-**<a href = "https://www.canva.com/design/DAGgAvj-nkA/yyMAhf4EtcO8BrEba_aiuA/view?utm_content=DAGgAvj-nkA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb6bc8602bc"> 프로젝트 발표 자료 </a>**
+- <a href = "https://www.canva.com/design/DAGgAvj-nkA/yyMAhf4EtcO8BrEba_aiuA/view?utm_content=DAGgAvj-nkA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb6bc8602bc"> 프로젝트 발표 자료 </a>
 ---
 
 ## 2. 주요 기능  
