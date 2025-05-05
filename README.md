@@ -45,7 +45,7 @@
 1. **영상 URL 입력**  
    - 유튜브 링크를 텍스트 박스에 붙여넣기  
 2. **오디오 추출 및 변환**  
-   - `yt_dlp` + FFmpeg 로 음성 추출 → Transformers 기반 Whisper ASR 파이프라인으로 텍스트 변환  
+   - yt_dlp + FFmpeg 로 음성 추출 → Transformers 기반 Whisper ASR 파이프라인으로 텍스트 변환  
 3. **핵심 요약 생성**  
    - GenAI 기반 Gemini Model을 사용하여 변환 텍스트를 요약 텍스트로 재가공 
    - 영어 번역 → 요약 → 한글 번역 후 깔끔한 번호형 문장 출력  
