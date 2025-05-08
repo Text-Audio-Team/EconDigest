@@ -1,4 +1,4 @@
-# Economic Digest
+# Summarized Economic Report
 ## AI 기반 경제 유튜브 영상 요약 문서화 서비스  
 ### **역할 구성**  
 - 팀장 : 김형섭(hyeongseob)  
